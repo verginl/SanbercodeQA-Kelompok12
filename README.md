@@ -21,7 +21,7 @@ Job Desk Team :
 1. Vergi Nardian Lufyandi <br>
 Test Case : SignUp<br>
 Pengujian : Manual & Automation <br>
-Url Dokumentasi :
+Url Dokumentasi Video : https://drive.google.com/file/d/120wCc-maZDSvqcvnHEEQ5O1FxT8YVL_t/view?usp=sharing
 
 2. Intan Fitriana Reffandia <br>
 Test Case : Login & Logout<br>
