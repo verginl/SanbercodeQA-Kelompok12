@@ -4,8 +4,23 @@ from _pytest import mark
 from _pytest.mark.structures import Mark
 import pytest
 import time
-from BaseSetUp import BaseScript
+from BaseScript import BaseScript
 
+# CATATAN : UNTUK RUN FILE INI BISA KETIK : Pytest Test_SignUp.py -v
+
+#================================ WEB BROWSER FIREFOX ==================================#
+# options = webdriver.FirefoxOptions()
+# @pytest.fixture
+# def setUp():
+#     driver = webdriver.Firefox(options=options)
+#     driver.maximize_window()
+#     driver.get("https://itera-qa.azurewebsites.net/")
+#     driver.implicitly_wait(10)
+#     yield driver
+#     driver.quit()
+#======================================================================================#
+
+#================================ WEB BROWSER CHROME ==================================#
 options = webdriver.ChromeOptions()
 options.add_experimental_option('excludeSwitches', ['enable-logging'])    
 @pytest.fixture
@@ -16,7 +31,7 @@ def setUp():
     driver.implicitly_wait(10)
     yield driver
     driver.quit()
-
+#======================================================================================#
 #============================= TEST CASE SIGN UP SUCCESS ==============================#
 @pytest.mark.signUpSuccess_TC_001
 def test_signUpSuccess_TC_001(setUp): #TC_001 Success Login
