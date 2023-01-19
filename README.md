@@ -10,11 +10,12 @@ Team Member:
 URL to Test: https://itera-qa.azurewebsites.net/
 
 Test Plan Document : https://docs.google.com/document/d/1phqj-nSwgs3LV4j3omqsZG6ScyVj66xrZxMgVtaq7yU/ <br>
+
 Test Case : https://docs.google.com/spreadsheets/d/10Bf_LqXnQey24VI-ElQcYW5DxAtvzNezD8GG8o1Zub4/edit#gid=0 <br>
 
 Automation Used:<br>
 *Selenium<br>
-*Phyton<br><br>
+*Phyton<br>
 
 Job Desk Team :
 1. Vergi Nardian Lufyandi <br>
