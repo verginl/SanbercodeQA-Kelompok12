@@ -21,24 +21,24 @@ Job Desk Team :
 1. Vergi Nardian Lufyandi <br>
 Test Case : SignUp<br>
 Pengujian : Manual & Automation <br>
-Url Dokumentasi Video : https://drive.google.com/file/d/120wCc-maZDSvqcvnHEEQ5O1FxT8YVL_t/view?usp=sharing
+Video Automation : https://drive.google.com/file/d/120wCc-maZDSvqcvnHEEQ5O1FxT8YVL_t/view?usp=sharing
 
 2. Intan Fitriana Reffandia <br>
 Test Case : Login & Logout<br>
 Pengujian : Manual & Automation <br>
-Url Dokumentasi : 
+Video Automation : 
 
 3. Novan Suriya Putra <br>
 Test Case : Dashboard <br>
 Pengujian : Manual & Automation <br>
-Url Dokumentasi : 
+Video Automation :
 
 4. Riska Nurhana Putri <br>
 Test Case : Customer Create & Read <br>
 Pengujian : Manual & Automation <br>
-Url Dokumentasi : 
+Video Automation :
 
 5. Ilham Pramudyo <br>
 Test Case : Customer Delete & Update <br>
 Pengujian : Manual & Automation <br>
-Url Dokumentasi : 
+Video Automation :
