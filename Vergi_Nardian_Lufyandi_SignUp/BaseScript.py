@@ -1,9 +1,6 @@
-from selenium import webdriver
 import random, string
 from random import randint
 
-options = webdriver.ChromeOptions()
-options.add_experimental_option('excludeSwitches', ['enable-logging'])  
 class BaseScript():  
 
     def randomInputStr(length):

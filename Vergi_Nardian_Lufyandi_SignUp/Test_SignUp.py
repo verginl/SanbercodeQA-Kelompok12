@@ -7,12 +7,13 @@ import time
 from BaseScript import BaseScript
 
 # CATATAN : UNTUK RUN FILE INI BISA KETIK : Pytest Test_SignUp.py -v
+#           JIKA BELUM INSTALL PYTEST, MAKA INSTALL PYTEST TERLEBIH DAHULU, KETIK : pip install pytest
 
 #================================ WEB BROWSER FIREFOX ==================================#
-# options = webdriver.FirefoxOptions()
+# options2 = webdriver.FirefoxOptions()
 # @pytest.fixture
 # def setUp():
-#     driver = webdriver.Firefox(options=options)
+#     driver = webdriver.Firefox(options2=options2)
 #     driver.maximize_window()
 #     driver.get("https://itera-qa.azurewebsites.net/")
 #     driver.implicitly_wait(10)
