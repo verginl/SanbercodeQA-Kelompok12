@@ -41,4 +41,4 @@ Video Automation :
 5. Ilham Pramudyo <br>
 Test Case : Customer Delete & Update <br>
 Pengujian : Manual & Automation <br>
-Video Automation :
+Video Automation : https://drive.google.com/drive/folders/1-kPK5tI-yqBgCbYGuTQp57MFjyDCBAW4?usp=share_link
