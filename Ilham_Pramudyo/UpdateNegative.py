@@ -38,7 +38,7 @@ class testUpdateUser(unittest.TestCase):
         response_message = driver.find_element(By.XPATH,"/html/body/div//h1[.='Dashboard']").text
         self.assertEqual(response_message,"Dashboard")
 
-    def est_TCU_2(self):
+    def test_TCU_2(self):
         driver = self.driver
         driver.get("https://itera-qa.azurewebsites.net/Login")
         driver.maximize_window()
@@ -62,7 +62,7 @@ class testUpdateUser(unittest.TestCase):
         response_message = driver.find_element(By.XPATH,"/html/body/div//h1[.='Dashboard']").text
         self.assertEqual(response_message,"Dashboard")
 
-    def est_TCU_3(self):
+    def test_TCU_3(self):
         driver = self.driver
         driver.get("https://itera-qa.azurewebsites.net/Login")
         driver.maximize_window()
