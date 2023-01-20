@@ -31,7 +31,7 @@ Video Automation :
 3. Novan Suriya Putra <br>
 Test Case : Dashboard <br>
 Pengujian : Manual & Automation <br>
-Video Automation :
+Video Automation : https://drive.google.com/drive/folders/1CyIb5wDchjbZ0xGd-hmG42icUYZ4NJWo?usp=share_link
 
 4. Riska Nurhana Putri <br>
 Test Case : Customer Create & Read <br>
