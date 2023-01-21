@@ -26,7 +26,7 @@ Video Automation : https://drive.google.com/file/d/120wCc-maZDSvqcvnHEEQ5O1FxT8Y
 2. Intan Fitriana Reffandia <br>
 Test Case : Login & Logout<br>
 Pengujian : Manual & Automation <br>
-Video Automation : 
+Video Automation : https://drive.google.com/drive/folders/1oYELQiw66lsHNEo8Qaf3-m_8NaLMOtSg?usp=sharing
 
 3. Novan Suriya Putra <br>
 Test Case : Dashboard <br>
