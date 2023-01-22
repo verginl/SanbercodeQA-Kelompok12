@@ -361,8 +361,8 @@ def test10_read_searchbyphone(setUp):
      btnSearch.click()
      time.sleep(2)
 
-@pytest.mark.test10_read_searchbycompany
-def test10_read_searchbycompany(setUp):
+@pytest.mark.test11_read_searchbycompany
+def test11_read_searchbycompany(setUp):
      #Login as pre-condition
      textlogin = setUp.find_element(By.XPATH,"//a[contains(text(),'Login')]")
      textlogin.click()
@@ -382,8 +382,8 @@ def test10_read_searchbycompany(setUp):
      btnSearch.click()
      time.sleep(2)
 
-@pytest.mark.test11_read_searchbyadress
-def test11_read_searchbyadress(setUp):
+@pytest.mark.test12_read_searchbyadress
+def test12_read_searchbyadress(setUp):
      #Login as pre-condition
      textlogin = setUp.find_element(By.XPATH,"//a[contains(text(),'Login')]")
      textlogin.click()
@@ -403,8 +403,8 @@ def test11_read_searchbyadress(setUp):
      btnSearch.click()
      time.sleep(2)
 
-@pytest.mark.test12_read_searchbycity
-def test11_read_searchbycity(setUp):
+@pytest.mark.test13_read_searchbycity
+def test13_read_searchbycity(setUp):
      #Login as pre-condition
      textlogin = setUp.find_element(By.XPATH,"//a[contains(text(),'Login')]")
      textlogin.click()
