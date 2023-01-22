@@ -36,7 +36,7 @@ Video Automation : https://drive.google.com/drive/folders/1CyIb5wDchjbZ0xGd-hmG4
 4. Riska Nurhana Putri <br>
 Test Case : Customer Create & Read <br>
 Pengujian : Manual & Automation <br>
-Video Automation :
+Video Automation : https://drive.google.com/file/d/1uR6ta_yv7JOXQPhLVbS1WaF4qvmW4-wk/view?usp=sharing
 
 5. Ilham Pramudyo <br>
 Test Case : Customer Delete & Update <br>
